@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C511BAQHxjUNbm0bvNg/company-background_10000/0/1519797623962?e=1686952800&v=beta&t=eywDBFhmNGjvEXqVdEMFNI35zV-DYaFmkbAz-4jVInE)]
+![MasterHead](https://media.licdn.com/dms/image/C511BAQHxjUNbm0bvNg/company-background_10000/0/1519797623962?e=1686952800&v=beta&t=eywDBFhmNGjvEXqVdEMFNI35zV-DYaFmkbAz-4jVInE)
 <h1 align="center">Hello Everyone 👋, I'm Gopal Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/db0a55a9e897894470b2e1b8a934da5c32545cdce892ebb9424a4a6b1ef64267/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966">
