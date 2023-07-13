@@ -16,9 +16,9 @@
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
 
 
-| Linkedin | GitHub | Chess.com |
-|-----------|-----------|-----------|
-| <p align="center"><a href="https://linkedin.com/in/gopal-gupta-056585253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/Gopal0Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"> <a href="https://www.chess.com/member/gopal_gupta_0" target="blank"><img align="center" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> |
+| Linkedin | GitHub | Twitter | Chess.com |
+|-----------|-----------|-----------|-----------|
+| <p align="center"><a href="https://linkedin.com/in/gopal-gupta-056585253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/Gopal0Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"> <a href="https://twitter.com/Gopal_Gupta_0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"> <a href="https://www.chess.com/member/gopal_gupta_0" target="blank"><img align="center" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> |
 
 <br>
 
