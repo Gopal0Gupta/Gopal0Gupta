@@ -33,6 +33,9 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopal0gupta&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=gopal0gupta&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
+## ✌️ Halopins Badges From HacktoberFest 2023
+[![An image of @gopal0gupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gopal0gupta)](https://holopin.io/@gopal0gupta) 
+
 <br>
 
 <h2>📚 Academic  </h2>
