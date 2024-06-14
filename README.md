@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android App Development**
 
-- 🌱 I’m currently learning **Java, C, C++, Kotlin**
+- 🌱 I’m currently learning **Jetpack Compose, Java**
 
 - 📫 How to reach me **k7523337@gmail.com**
 
